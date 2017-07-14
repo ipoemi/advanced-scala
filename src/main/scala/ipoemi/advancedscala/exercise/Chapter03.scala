@@ -1,4 +1,4 @@
-package ipoemi.advancedscala.exercise
+package ipoemi.advancedscala.exercise.chapter03
 
 import scala.util.Try
 
