@@ -1,4 +1,4 @@
-package ipoemi.advancedscala.exercise
+package ipoemi.advancedscala.exercise.chapter05
 
 object `5.3` {
 
