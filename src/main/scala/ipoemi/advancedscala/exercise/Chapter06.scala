@@ -79,7 +79,7 @@ object `6.3.4` {
     } yield (a, b)
 }
 
-object Chapter04Main {
+object Chapter06Main {
   def main(args: Array[String]): Unit = {
     import cats._, cats.data._, cats.implicits._
 

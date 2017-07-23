@@ -44,7 +44,7 @@ object `5.3` {
 
 }
 
-object Chapter04Main {
+object Chapter05Main {
   def main(args: Array[String]): Unit = {
     import cats.data._
     import cats.implicits._
